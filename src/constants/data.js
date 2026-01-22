@@ -1,0 +1,92 @@
+export const productData = [
+  {
+    id: 1,
+    name: "iPhone 15 Pro",
+    category: "Electronics",
+    price: 85999,
+    rating: 0,
+    image: "https://tse4.mm.bing.net/th/id/OIP.JunieDMQ0Ia1UwlHb37WtgHaEK?pid=Api&P=0&h=180",
+    description: "Latest iPhone with titanium design and A17 Pro chip",
+    reviews: []
+  },
+  {
+    id: 2,
+    name: "Sony WH-1000XM5",
+    category: "Electronics",
+    price: 33199,
+    rating: 0,
+    image: "https://tse2.mm.bing.net/th/id/OIP.HAXBOtaMoSTacWxhRCfZGQHaEw?pid=Api&P=0&h=180",
+    description: "Industry-leading noise cancelling headphones",
+    reviews: []
+  },
+  {
+    id: 3,
+    name: "Nike Air Max 270",
+    category: "Fashion",
+    price: 12499,
+    rating: 0,
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    description: "Comfortable running shoes with Air Max technology",
+    reviews: []
+  },
+  {
+    id: 4,
+    name: "MacBook Pro 16\"",
+    category: "Electronics",
+    price: 199999,
+    rating: 0,
+    image: "https://tse4.mm.bing.net/th/id/OIP.lFkf8-ObV06MhSOjDIcZLQHaHa?pid=Api&P=0&h=180",
+    description: "Powerful laptop for professionals with M3 chip",
+    reviews: []
+  },
+  {
+    id: 5,
+    name: "Levi's 501 Jeans",
+    category: "Fashion",
+    price: 7899,
+    rating: 0,
+    image: "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400",
+    description: "Classic straight fit jeans, the original since 1873",
+    reviews: []
+  },
+  {
+    id: 6,
+    name: "Dyson V15 Detect",
+    category: "Home",
+    price: 62199,
+    rating: 0,
+    image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400",
+    description: "Powerful cordless vacuum with laser dust detection",
+    reviews: []
+  },
+  {
+    id: 7,
+    name: "Rolex Submariner",
+    category: "Fashion",
+    price: 699999,
+    rating: 0,
+    image: "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=400",
+    description: "Iconic luxury dive watch with Oystersteel case",
+    reviews: []
+  },
+  {
+    id: 8,
+    name: "Instant Pot Duo",
+    category: "Home",
+    price: 6999,
+    rating: 0,
+    image: "https://tse1.mm.bing.net/th/id/OIP.KVai9F9ZpM2mA7wzlbTfGgHaEl?pid=Api&P=0&h=180",
+    description: "7-in-1 electric pressure cooker for fast cooking",
+    reviews: []
+  },
+  {
+    id: 9,
+    name: "Canon EOS R5",
+    category: "Electronics",
+    price: 39999,
+    rating: 0,
+    image: "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400",
+    description: "Professional mirrorless camera with 45MP sensor",
+    reviews: []
+  }
+];
